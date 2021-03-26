@@ -1,2 +1,1 @@
-# Movie-Collaborative-Filtering
-An abbreviated approach to Lesson 6 of the fastai Practical Deep Learning for Coders course
+This code is taken directly from Lesson 6 of fastai's "Practical Deep Learning for Coders" course, but it jumps directly to building a deep learning neural network for collaborative filtering, without attempting to build the model from scratch.
